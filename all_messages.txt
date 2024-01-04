@@ -1,0 +1,1590 @@
+------------
+Message received from: Eris
+To chat: Jupiter
+Hello from Eris
+
+------------
+Message received from: Mercury
+To chat: Earth
+Hello from Mercury
+
+------------
+Message received from: Venus
+To chat: Eris
+Hello from Venus
+
+------------
+Message received from: Mars
+To chat: Uranus
+Hello from Mars
+
+------------
+Message received from: Saturn
+To chat: Mars
+Hello from Saturn
+
+------------
+Message received from: Mars
+To chat: Saturn
+Hello from Mars
+
+------------
+Message received from: Pluto
+To chat: Saturn
+Hello from Pluto
+
+------------
+Message received from: Neptune
+To chat: Saturn
+Hello from Neptune
+
+------------
+Message received from: Earth
+To chat: Venus
+Hello from Earth
+
+------------
+Message received from: Uranus
+To chat: Neptune
+Hello from Uranus
+
+------------
+Message received from: Mercury
+To chat: Saturn
+Hello from Mercury
+
+------------
+Message received from: Jupiter
+To chat: Saturn
+Hello from Jupiter
+
+------------
+Message received from: Eris
+To chat: Earth
+Hello from Eris
+
+------------
+Message received from: Mars
+To chat: Pluto
+Hello from Mars
+
+------------
+Message received from: Neptune
+To chat: Eris
+Hello from Neptune
+
+------------
+Message received from: Pluto
+To chat: Neptune
+Hello from Pluto
+
+------------
+Message received from: Saturn
+To chat: Eris
+Hello from Saturn
+
+------------
+Message received from: Venus
+To chat: Mars
+Hello from Venus
+
+------------
+Message received from: Earth
+To chat: Venus
+Hello from Earth
+
+------------
+Message received from: Neptune
+To chat: Uranus
+Hello from Neptune
+
+------------
+Message received from: Uranus
+To chat: Venus
+Hello from Uranus
+
+------------
+Message received from: Jupiter
+To chat: Mercury
+Hello from Jupiter
+
+------------
+Message received from: Pluto
+To chat: Saturn
+Hello from Pluto
+
+------------
+Message received from: Mars
+To chat: Earth
+Hello from Mars
+
+------------
+Message received from: Saturn
+To chat: Neptune
+Hello from Saturn
+
+------------
+Message received from: Mercury
+To chat: Eris
+Hello from Mercury
+
+------------
+Message received from: Eris
+To chat: Earth
+Hello from Eris
+
+------------
+Message received from: Earth
+To chat: Uranus
+Hello from Earth
+
+------------
+Message received from: Pluto
+To chat: Neptune
+Hello from Pluto
+
+------------
+Message received from: Neptune
+To chat: Mercury
+Hello from Neptune
+
+------------
+Message received from: Venus
+To chat: Jupiter
+Hello from Venus
+
+------------
+Message received from: Earth
+To chat: Mercury
+Hello from Earth
+
+------------
+Message received from: Uranus
+To chat: Saturn
+Hello from Uranus
+
+------------
+Message received from: Jupiter
+To chat: Neptune
+Hello from Jupiter
+
+------------
+Message received from: Mercury
+To chat: Jupiter
+Hello from Mercury
+
+------------
+Message received from: Neptune
+To chat: Saturn
+Hello from Neptune
+
+------------
+Message received from: Pluto
+To chat: Mercury
+Hello from Pluto
+
+------------
+Message received from: Eris
+To chat: Mars
+Hello from Eris
+
+------------
+Message received from: Venus
+To chat: Eris
+Hello from Venus
+
+------------
+Message received from: Mars
+To chat: Neptune
+Hello from Mars
+
+------------
+Message received from: Jupiter
+To chat: Earth
+Hello from Jupiter
+
+------------
+Message received from: Saturn
+To chat: Pluto
+Hello from Saturn
+
+------------
+Message received from: Eris
+To chat: Uranus
+Hello from Eris
+
+------------
+Message received from: Uranus
+To chat: Pluto
+Hello from Uranus
+
+------------
+Message received from: Mercury
+To chat: Saturn
+Hello from Mercury
+
+------------
+Message received from: Pluto
+To chat: Neptune
+Hello from Pluto
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Hello from Neptune
+
+------------
+Message received from: Venus
+To chat: Uranus
+Hello from Venus
+
+------------
+Message received from: Earth
+To chat: Mars
+Hello from Earth
+
+------------
+Message received from: Saturn
+To chat: Pluto
+Hello from Saturn
+
+------------
+Message received from: Mars
+To chat: Saturn
+Hello from Mars
+
+------------
+Message received from: Jupiter
+To chat: Venus
+Hello from Jupiter
+
+------------
+Message received from: Earth
+To chat: Mercury
+Hello from Earth
+
+------------
+Message received from: Venus
+To chat: Jupiter
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Mercury
+Hello from Neptune
+
+------------
+Message received from: Saturn
+To chat: Pluto
+Hello from Saturn
+
+------------
+Message received from: Mercury
+To chat: Venus
+Hello from Mercury
+
+------------
+Message received from: Eris
+To chat: Venus
+Hello from Eris
+
+------------
+Message received from: Pluto
+To chat: Neptune
+Hello from Pluto
+
+------------
+Message received from: Mars
+To chat: Venus
+Hello from Mars
+
+------------
+Message received from: Earth
+To chat: Uranus
+Hello from Earth
+
+------------
+Message received from: Saturn
+To chat: Earth
+Hello from Saturn
+
+------------
+Message received from: Uranus
+To chat: Earth
+Hello from Uranus
+
+------------
+Message received from: Jupiter
+To chat: Uranus
+Hello from Jupiter
+
+------------
+Message received from: Pluto
+To chat: Mars
+Hello from Pluto
+
+------------
+Message received from: Mercury
+To chat: Venus
+Hello from Mercury
+
+------------
+Message received from: Uranus
+To chat: Earth
+Hello from Uranus
+
+------------
+Message received from: Eris
+To chat: Saturn
+Hello from Eris
+
+------------
+Message received from: Venus
+To chat: Earth
+Hello from Venus
+
+------------
+Message received from: Saturn
+To chat: Mercury
+Hello from Saturn
+
+------------
+Message received from: Mars
+To chat: Jupiter
+Hello from Mars
+
+------------
+Message received from: Earth
+To chat: Pluto
+Hello from Earth
+
+------------
+Message received from: Neptune
+To chat: Mercury
+Hello from Neptune
+
+------------
+Message received from: Jupiter
+To chat: Mars
+Hello from Jupiter
+
+------------
+Message received from: Eris
+To chat: Neptune
+Hello from Eris
+
+------------
+Message received from: Pluto
+To chat: Earth
+Hello from Pluto
+
+------------
+Message received from: Earth
+To chat: Pluto
+Hello from Earth
+
+------------
+Message received from: Venus
+To chat: Saturn
+Hello from Venus
+
+------------
+Message received from: Mars
+To chat: Venus
+Hello from Mars
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Hello from Neptune
+
+------------
+Message received from: Mercury
+To chat: Jupiter
+Hello from Mercury
+
+------------
+Message received from: Uranus
+To chat: Earth
+Hello from Uranus
+
+------------
+Message received from: Saturn
+To chat: Venus
+Hello from Saturn
+
+------------
+Message received from: Eris
+To chat: Venus
+Hello from Eris
+
+------------
+Message received from: Saturn
+To chat: Eris
+Hello from Saturn
+
+------------
+Message received from: Earth
+To chat: Uranus
+Hello from Earth
+
+------------
+Message received from: Jupiter
+To chat: Eris
+Hello from Jupiter
+
+------------
+Message received from: Pluto
+To chat: Mars
+Hello from Pluto
+
+------------
+Message received from: Neptune
+To chat: Venus
+Hello from Neptune
+
+------------
+Message received from: Saturn
+To chat: Jupiter
+Hello from Saturn
+
+------------
+Message received from: Venus
+To chat: Earth
+Hello from Venus
+
+------------
+Message received from: Eris
+To chat: Venus
+Hello from Eris
+
+------------
+Message received from: Mars
+To chat: Neptune
+Hello from Mars
+
+------------
+Message received from: Uranus
+To chat: Venus
+Hello from Uranus
+
+------------
+Message received from: Mercury
+To chat: Uranus
+Hello from Mercury
+
+------------
+Message received from: Earth
+To chat: Saturn
+Hello from Earth
+
+------------
+Message received from: Jupiter
+To chat: Mars
+Hello from Jupiter
+
+------------
+Message received from: Mercury
+To chat: Saturn
+Hello from Mercury
+
+------------
+Message received from: Venus
+To chat: Jupiter
+Hello from Venus
+
+------------
+Message received from: Pluto
+To chat: Earth
+Hello from Pluto
+
+------------
+Message received from: Neptune
+To chat: Pluto
+Hello from Neptune
+
+------------
+Message received from: Eris
+To chat: Mercury
+Hello from Eris
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Hello from Neptune
+
+------------
+Message received from: Saturn
+To chat: Neptune
+Hello from Saturn
+
+------------
+Message received from: Uranus
+To chat: Mars
+Hello from Uranus
+
+------------
+Message received from: Venus
+To chat: Mercury
+Hello from Venus
+
+------------
+Message received from: Mars
+To chat: Pluto
+Hello from Mars
+
+------------
+Message received from: Jupiter
+To chat: Neptune
+Hello from Jupiter
+
+------------
+Message received from: Earth
+To chat: Mercury
+Hello from Earth
+
+------------
+Message received from: Eris
+To chat: Uranus
+Hello from Eris
+
+------------
+Message received from: Mars
+To chat: Earth
+Hello from Mars
+
+------------
+Message received from: Mercury
+To chat: Uranus
+Hello from Mercury
+
+------------
+Message received from: Saturn
+To chat: Pluto
+Hello from Saturn
+
+------------
+Message received from: Venus
+To chat: Jupiter
+Hello from Venus
+
+------------
+Message received from: Pluto
+To chat: Eris
+Hello from Pluto
+
+------------
+Message received from: Eris
+To chat: Pluto
+Hello from Eris
+
+------------
+Message received from: Earth
+To chat: Pluto
+Hello from Earth
+
+------------
+Message received from: Venus
+To chat: Mercury
+Hello from Venus
+
+------------
+Message received from: Uranus
+To chat: Jupiter
+Hello from Uranus
+
+------------
+Message received from: Neptune
+To chat: Mars
+Hello from Neptune
+
+------------
+Message received from: Pluto
+To chat: Mercury
+Hello from Pluto
+
+------------
+Message received from: Eris
+To chat: Neptune
+Hello from Eris
+
+------------
+Message received from: Jupiter
+To chat: Earth
+Hello from Jupiter
+
+------------
+Message received from: Uranus
+To chat: Earth
+Hello from Uranus
+
+------------
+Message received from: Mercury
+To chat: Uranus
+Hello from Mercury
+
+------------
+Message received from: Mars
+To chat: Mercury
+Hello from Mars
+
+------------
+Message received from: Venus
+To chat: Mars
+Hello from Venus
+
+------------
+Message received from: Saturn
+To chat: Uranus
+Hello from Saturn
+
+------------
+Message received from: Uranus
+To chat: Mars
+Hello from Uranus
+
+------------
+Message received from: Earth
+To chat: Jupiter
+Hello from Earth
+
+------------
+Message received from: Pluto
+To chat: Uranus
+Hello from Pluto
+
+------------
+Message received from: Neptune
+To chat: Earth
+Hello from Neptune
+
+------------
+Message received from: Mars
+To chat: Pluto
+Hello from Mars
+
+------------
+Message received from: Eris
+To chat: Mars
+Hello from Eris
+
+------------
+Message received from: Mercury
+To chat: Saturn
+Hello from Mercury
+
+------------
+Message received from: Jupiter
+To chat: Eris
+Hello from Jupiter
+
+------------
+Message received from: Mars
+To chat: Neptune
+Hello from Mars
+
+------------
+Message received from: Eris
+To chat: Earth
+Hello from Eris
+
+------------
+Message received from: Venus
+To chat: Mars
+Hello from Venus
+
+------------
+Message received from: Jupiter
+To chat: Eris
+Hello from Jupiter
+
+------------
+Message received from: Mercury
+To chat: Mars
+Hello from Mercury
+
+------------
+Message received from: Pluto
+To chat: Earth
+Hello from Pluto
+
+------------
+Message received from: Uranus
+To chat: Saturn
+Hello from Uranus
+
+------------
+Message received from: Saturn
+To chat: Pluto
+Hello from Saturn
+
+------------
+Message received from: Neptune
+To chat: Saturn
+Hello from Neptune
+
+------------
+Message received from: Earth
+To chat: Neptune
+Hello from Earth
+
+------------
+Message received from: Uranus
+To chat: Earth
+Hello from Uranus
+
+------------
+Message received from: Eris
+To chat: Mars
+Hello from Eris
+
+------------
+Message received from: Saturn
+To chat: Venus
+Hello from Saturn
+
+------------
+Message received from: Mars
+To chat: Uranus
+Hello from Mars
+
+------------
+Message received from: Pluto
+To chat: Saturn
+Hello from Pluto
+
+------------
+Message received from: Jupiter
+To chat: Saturn
+Hello from Jupiter
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Hello from Neptune
+
+------------
+Message received from: Mercury
+To chat: Eris
+Hello from Mercury
+
+------------
+Message received from: Uranus
+To chat: Pluto
+Hello from Uranus
+
+------------
+Message received from: Venus
+To chat: Earth
+Hello from Venus
+
+------------
+Message received from: Eris
+To chat: Jupiter
+Hello from Eris
+
+------------
+Message received from: Jupiter
+To chat: Mars
+Hello from Jupiter
+
+------------
+Message received from: Uranus
+To chat: Neptune
+Hello from Uranus
+
+------------
+Message received from: Neptune
+To chat: Eris
+Hello from Neptune
+
+------------
+Message received from: Venus
+To chat: Mars
+Hello from Venus
+
+------------
+Message received from: Earth
+To chat: Mercury
+Hello from Earth
+
+------------
+Message received from: Mars
+To chat: Neptune
+Hello from Mars
+
+------------
+Message received from: Saturn
+To chat: Mercury
+Hello from Saturn
+
+------------
+Message received from: Pluto
+To chat: Neptune
+Hello from Pluto
+
+------------
+Message received from: Earth
+To chat: Uranus
+Hello from Earth
+
+------------
+Message received from: Pluto
+To chat: Jupiter
+Hello from Pluto
+
+------------
+Message received from: Mercury
+To chat: Pluto
+Hello from Mercury
+
+------------
+Message received from: Venus
+To chat: Uranus
+Hello from Venus
+
+------------
+Message received from: Saturn
+To chat: Mars
+Hello from Saturn
+
+------------
+Message received from: Neptune
+To chat: Pluto
+Hello from Neptune
+
+------------
+Message received from: Earth
+To chat: Pluto
+Hello from Earth
+
+------------
+Message received from: Jupiter
+To chat: Pluto
+Hello from Jupiter
+
+------------
+Message received from: Mars
+To chat: Eris
+Hello from Mars
+
+------------
+Message received from: Eris
+To chat: Mercury
+Hello from Eris
+
+------------
+Message received from: Mercury
+To chat: Venus
+Hello from Mercury
+
+------------
+Message received from: Uranus
+To chat: Mercury
+Hello from Uranus
+
+------------
+Message received from: Venus
+To chat: Jupiter
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Eris
+Hello from Neptune
+
+------------
+Message received from: Eris
+To chat: Saturn
+Hello from Eris
+
+------------
+Message received from: Earth
+To chat: Mars
+Hello from Earth
+
+------------
+Message received from: Pluto
+To chat: Venus
+Hello from Pluto
+
+------------
+Message received from: Mercury
+To chat: Pluto
+Hello from Mercury
+
+------------
+Message received from: Venus
+To chat: Eris
+Hello from Venus
+
+------------
+Message received from: Jupiter
+To chat: Mercury
+Hello from Jupiter
+
+------------
+Message received from: Saturn
+To chat: Neptune
+Hello from Saturn
+
+------------
+Message received from: Mars
+To chat: Uranus
+Hello from Mars
+
+------------
+Message received from: Uranus
+To chat: Mars
+Hello from Uranus
+
+------------
+Message received from: Earth
+To chat: Saturn
+Hello from Earth
+
+------------
+Message received from: Mercury
+To chat: Pluto
+Hello from Mercury
+
+------------
+Message received from: Pluto
+To chat: Mars
+Hello from Pluto
+
+------------
+Message received from: Venus
+To chat: Mars
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Eris
+Hello from Neptune
+
+------------
+Message received from: Saturn
+To chat: Pluto
+Hello from Saturn
+
+------------
+Message received from: Jupiter
+To chat: Saturn
+Hello from Jupiter
+
+------------
+Message received from: Eris
+To chat: Mercury
+Hello from Eris
+
+------------
+Message received from: Uranus
+To chat: Mars
+Hello from Uranus
+
+------------
+Message received from: Mars
+To chat: Jupiter
+Hello from Mars
+
+------------
+Message received from: Earth
+To chat: Venus
+Hello from Earth
+
+------------
+Message received from: Saturn
+To chat: Mars
+Hello from Saturn
+
+------------
+Message received from: Pluto
+To chat: Venus
+Hello from Pluto
+
+------------
+Message received from: Uranus
+To chat: Pluto
+Hello from Uranus
+
+------------
+Message received from: Jupiter
+To chat: Eris
+Hello from Jupiter
+
+------------
+Message received from: Mercury
+To chat: Earth
+Hello from Mercury
+
+------------
+Message received from: Pluto
+To chat: Earth
+Hello from Pluto
+
+------------
+Message received from: Venus
+To chat: Jupiter
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Mercury
+Hello from Neptune
+
+------------
+Message received from: Mars
+To chat: Uranus
+Hello from Mars
+
+------------
+Message received from: Pluto
+To chat: Neptune
+Hello from Pluto
+
+------------
+Message received from: Eris
+To chat: Pluto
+Hello from Eris
+
+------------
+Message received from: Earth
+To chat: Pluto
+Hello from Earth
+
+------------
+Message received from: Uranus
+To chat: Jupiter
+Hello from Uranus
+
+------------
+Message received from: Mercury
+To chat: Saturn
+Hello from Mercury
+
+------------
+Message received from: Saturn
+To chat: Jupiter
+Hello from Saturn
+
+------------
+Message received from: Jupiter
+To chat: Uranus
+Hello from Jupiter
+
+------------
+Message received from: Jupiter
+To chat: Uranus
+Hello from Jupiter
+
+------------
+Message received from: Eris
+To chat: Saturn
+Hello from Eris
+
+------------
+Message received from: Venus
+To chat: Saturn
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Venus
+Hello from Neptune
+
+------------
+Message received from: Uranus
+To chat: Earth
+Hello from Uranus
+
+------------
+Message received from: Jupiter
+To chat: Venus
+Hello from Jupiter
+
+------------
+Message received from: Saturn
+To chat: Mercury
+Hello from Saturn
+
+------------
+Message received from: Pluto
+To chat: Mars
+Hello from Pluto
+
+------------
+Message received from: Eris
+To chat: Mars
+Hello from Eris
+
+------------
+Message received from: Mars
+To chat: Earth
+Hello from Mars
+
+------------
+Message received from: Mercury
+To chat: Uranus
+Hello from Mercury
+
+------------
+Message received from: Uranus
+To chat: Eris
+Hello from Uranus
+
+------------
+Message received from: Neptune
+To chat: Uranus
+Hello from Neptune
+
+------------
+Message received from: Earth
+To chat: Mars
+Hello from Earth
+
+------------
+Message received from: Mars
+To chat: Eris
+Hello from Mars
+
+------------
+Message received from: Neptune
+To chat: Pluto
+Hello from Neptune
+
+------------
+Message received from: Jupiter
+To chat: Pluto
+Hello from Jupiter
+
+------------
+Message received from: Saturn
+To chat: Earth
+Hello from Saturn
+
+------------
+Message received from: Venus
+To chat: Earth
+Hello from Venus
+
+------------
+Message received from: Eris
+To chat: Jupiter
+Hello from Eris
+
+------------
+Message received from: Pluto
+To chat: Saturn
+Hello from Pluto
+
+------------
+Message received from: Uranus
+To chat: Pluto
+Hello from Uranus
+
+------------
+Message received from: Earth
+To chat: Mars
+Hello from Earth
+
+------------
+Message received from: Venus
+To chat: Eris
+Hello from Venus
+
+------------
+Message received from: Mars
+To chat: Venus
+Hello from Mars
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Hello from Neptune
+
+------------
+Message received from: Mercury
+To chat: Saturn
+Hello from Mercury
+
+------------
+Message received from: Uranus
+To chat: Venus
+Hello from Uranus
+
+------------
+Message received from: Earth
+To chat: Mars
+Hello from Earth
+
+------------
+Message received from: Pluto
+To chat: Uranus
+Hello from Pluto
+
+------------
+Message received from: Mercury
+To chat: Neptune
+Hello from Mercury
+
+------------
+Message received from: Mars
+To chat: Earth
+Hello from Mars
+
+------------
+Message received from: Saturn
+To chat: Eris
+Hello from Saturn
+
+------------
+Message received from: Neptune
+To chat: Mars
+Hello from Neptune
+
+------------
+Message received from: Uranus
+To chat: Jupiter
+Hello from Uranus
+
+------------
+Message received from: Eris
+To chat: Mars
+Hello from Eris
+
+------------
+Message received from: Jupiter
+To chat: Pluto
+Hello from Jupiter
+
+------------
+Message received from: Mars
+To chat: Venus
+Hello from Mars
+
+------------
+Message received from: Saturn
+To chat: Neptune
+Hello from Saturn
+
+------------
+Message received from: Pluto
+To chat: Earth
+Hello from Pluto
+
+------------
+Message received from: Earth
+To chat: Mars
+Hello from Earth
+
+------------
+Message received from: Venus
+To chat: Saturn
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Saturn
+Hello from Neptune
+
+------------
+Message received from: Eris
+To chat: Mars
+Hello from Eris
+
+------------
+Message received from: Mercury
+To chat: Jupiter
+Hello from Mercury
+
+------------
+Message received from: Saturn
+To chat: Venus
+Hello from Saturn
+
+------------
+Message received from: Pluto
+To chat: Mercury
+Hello from Pluto
+
+------------
+Message received from: Uranus
+To chat: Mars
+Hello from Uranus
+
+------------
+Message received from: Earth
+To chat: Mercury
+Hello from Earth
+
+------------
+Message received from: Jupiter
+To chat: Mars
+Hello from Jupiter
+
+------------
+Message received from: Venus
+To chat: Eris
+Hello from Venus
+
+------------
+Message received from: Saturn
+To chat: Mars
+Hello from Saturn
+
+------------
+Message received from: Mars
+To chat: Earth
+Hello from Mars
+
+------------
+Message received from: Neptune
+To chat: Eris
+Hello from Neptune
+
+------------
+Message received from: Eris
+To chat: Neptune
+Hello from Eris
+
+------------
+Message received from: Uranus
+To chat: Pluto
+Hello from Uranus
+
+------------
+Message received from: Mercury
+To chat: Uranus
+Hello from Mercury
+
+------------
+Message received from: Venus
+To chat: Earth
+Hello from Venus
+
+------------
+Message received from: Earth
+To chat: Pluto
+Hello from Earth
+
+------------
+Message received from: Pluto
+To chat: Mars
+Hello from Pluto
+
+------------
+Message received from: Jupiter
+To chat: Neptune
+Hello from Jupiter
+
+------------
+Message received from: Venus
+To chat: Pluto
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Saturn
+Hello from Neptune
+
+------------
+Message received from: Mercury
+To chat: Neptune
+Hello from Mercury
+
+------------
+Message received from: Mars
+To chat: Earth
+Hello from Mars
+
+------------
+Message received from: Saturn
+To chat: Eris
+Hello from Saturn
+
+------------
+Message received from: Eris
+To chat: Jupiter
+Hello from Eris
+
+------------
+Message received from: Earth
+To chat: Jupiter
+Hello from Earth
+
+------------
+Message received from: Venus
+To chat: Mercury
+Hello from Venus
+
+------------
+Message received from: Jupiter
+To chat: Pluto
+Hello from Jupiter
+
+------------
+Message received from: Uranus
+To chat: Mars
+Hello from Uranus
+
+------------
+Message received from: Pluto
+To chat: Venus
+Hello from Pluto
+
+------------
+Message received from: Neptune
+To chat: Pluto
+Hello from Neptune
+
+------------
+Message received from: Mercury
+To chat: Neptune
+Hello from Mercury
+
+------------
+Message received from: Earth
+To chat: Jupiter
+Hello from Earth
+
+------------
+Message received from: Uranus
+To chat: Jupiter
+Hello from Uranus
+
+------------
+Message received from: Jupiter
+To chat: Eris
+Hello from Jupiter
+
+------------
+Message received from: Mars
+To chat: Eris
+Hello from Mars
+
+------------
+Message received from: Pluto
+To chat: Mercury
+Hello from Pluto
+
+------------
+Message received from: Eris
+To chat: Jupiter
+Hello from Eris
+
+------------
+Message received from: Saturn
+To chat: Mercury
+Hello from Saturn
+
+------------
+Message received from: Uranus
+To chat: Mercury
+Hello from Uranus
+
+------------
+Message received from: Venus
+To chat: Saturn
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Pluto
+Hello from Neptune
+
+------------
+Message received from: Jupiter
+To chat: Uranus
+Hello from Jupiter
+
+------------
+Message received from: Venus
+To chat: Saturn
+Hello from Venus
+
+------------
+Message received from: Earth
+To chat: Mars
+Hello from Earth
+
+------------
+Message received from: Uranus
+To chat: Jupiter
+Hello from Uranus
+
+------------
+Message received from: Pluto
+To chat: Mars
+Hello from Pluto
+
+------------
+Message received from: Mars
+To chat: Eris
+Hello from Mars
+
+------------
+Message received from: Mercury
+To chat: Jupiter
+Hello from Mercury
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Hello from Neptune
+
+------------
+Message received from: Venus
+To chat: Mars
+Hello from Venus
+
+------------
+Message received from: Neptune
+To chat: Pluto
+Hello from Neptune
+
+------------
+Message received from: Eris
+To chat: Saturn
+Hello from Eris
+
+------------
+Message received from: Saturn
+To chat: Earth
+Hello from Saturn
+
+------------
+Message received from: Uranus
+To chat: Mercury
+Hello from Uranus
+
+------------
+Message received from: Mercury
+To chat: Venus
+Hello from Mercury
+
+------------
+Message received from: Jupiter
+To chat: Mercury
+Hello from Jupiter
+
+------------
+Message received from: Venus
+To chat: Mars
+Hello from Venus
+
+------------
+Message received from: Mars
+To chat: Uranus
+Hello from Mars
+
+------------
+Message received from: Earth
+To chat: Eris
+Hello from Earth
+
+------------
+Message received from: Pluto
+To chat: Eris
+Hello from Pluto
+
