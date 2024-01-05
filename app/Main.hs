@@ -34,51 +34,49 @@ createUser name = do
   return $ User name mbox
 
 -- | Sends a message from one user to another and logs the message to a common file.
-sendMessage :: MVar () -> User -> User -> Message -> IO ()
-sendMessage fileLock from to message = do
-  let fileName = "all_messages.txt"
-  let formattedMessage = "------------\n" ++
-                         "Message received from: " ++ username from ++
-                         "\nTo chat: " ++ username to ++
-                         "\n" ++ content message ++ "\n\n"
-  withMVar fileLock $ \_ -> appendFile fileName formattedMessage
-
-  -- Update the recipient's received messages
-  modifyMVar_ (receivedMessages to) $ \messages -> return (message : messages)
+sendMessage :: MVar () -> MVar Int -> User -> User -> Message -> IO ()
+sendMessage fileLock messageCount from to message = do
+  currentCount <- takeMVar messageCount
+  if currentCount < 100 then do
+    let fileName = "all_messages.txt"
+    let formattedMessage = "------------\n" ++
+                          "Message received from: " ++ username from ++
+                          "\nTo chat: " ++ username to ++
+                          "\n" ++ content message ++ "\n\n"
+    withMVar fileLock $ \_ -> appendFile fileName formattedMessage
+    modifyMVar_ (receivedMessages to) $ \messages -> return (message : messages)
+    putMVar messageCount (currentCount + 1)
+  else
+    putMVar messageCount currentCount
 
 -- | Simulates the activity of a user.
-userActivity :: MVar () -> [User] -> User -> IO ()
-userActivity fileLock users currentUser = replicateM_ 100 $ do
+userActivity :: MVar () -> MVar Int -> [User] -> User -> IO ()
+userActivity fileLock messageCount users currentUser = forever $ do
   threadDelay =<< randomRIO (100000, 500000)
-  
-  -- Filter out the current user from the list of potential recipients
-  let potentialRecipients = filter (/= currentUser) users
-
-  -- Pick a random user from the filtered list to send a message to
-  recipientIndex <- randomRIO (0, length potentialRecipients - 1)
-  let recipient = potentialRecipients !! recipientIndex
-  let sender = username currentUser
-
-  -- Create and send a message
-  let messageContent = "Hello from " ++ sender
-  let message = Message sender messageContent
-  sendMessage fileLock currentUser recipient message
+  currentCount <- readMVar messageCount
+  when (currentCount < 100) $ do
+    let potentialRecipients = filter (/= currentUser) users
+    recipientIndex <- randomRIO (0, length potentialRecipients - 1)
+    let recipient = potentialRecipients !! recipientIndex
+    let sender = username currentUser
+    let messageContent = "Hello from " ++ sender
+    let message = Message sender messageContent
+    sendMessage fileLock messageCount currentUser recipient message
 
 -- | The main function that starts the social network simulation.
 main :: IO ()
 main = do
-  -- Remove existing all_messages.txt file if it exists
   removeFile "all_messages.txt" `catch` handleExists
   fileLock <- newMVar ()
-  
-  -- Create users using the list of planet names
-  users <- mapM createUser planetNames
+  messageCount <- newMVar 0
 
-  -- Spawn threads for each user
-  mapM_ (forkIO . userActivity fileLock users) users
+  users <- mapM createUser planetNames
+  mapM_ (forkIO . userActivity fileLock messageCount users) users
 
   -- Wait for all messages to be sent
   threadDelay 10000000
+  finalCount <- readMVar messageCount
+  putStrLn $ "Total messages sent: " ++ show finalCount
 
   -- Output the final count of messages each user received
   forM_ users $ \user -> do
