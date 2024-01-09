@@ -25,7 +25,10 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      ExceptionHandler
+      Message
+      User
+      Utils
   other-modules:
       Paths_Haskell_Threads
   autogen-modules:
