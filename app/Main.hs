@@ -1,37 +1,21 @@
-{-# LANGUAGE BangPatterns #-}
+module Main where
 
 import Control.Concurrent
 import Control.Monad
 import System.Random
 import System.IO
-import System.Directory
-import Control.Exception
-import System.IO.Error (isDoesNotExistError)
+import System.Directory (removeFile)
+import Control.Exception (catch)
+import User (User(..))
+import Message (Message(..))
+import Utils (planetNames)
+import ExceptionHandler (handleExists)
 
--- | Represents a user in the social network.
-data User = User
-  { username :: String
-  , receivedMessages :: MVar [Message] 
-  } deriving (Eq)
-
--- | Represents a message in the social network.
-data Message = Message
-  { fromUser :: String  
-  , content :: String 
-  }
-
-instance Show Message where
-  show (Message from content) = from ++ ": " ++ content
-
--- | List of usernames based on planet names.
-planetNames :: [String]
-planetNames = ["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "Eris"]
-
--- | Creates a new user with the given username.
+-- | Creates a new user with the given name.
 createUser :: String -> IO User
-createUser name = do
+createUser uname = do
   mbox <- newMVar []
-  return $ User name mbox
+  return $ User uname mbox
 
 -- | Sends a message from one user to another and logs the message to a common file.
 sendMessage :: MVar () -> MVar Int -> User -> User -> Message -> IO ()
@@ -40,11 +24,11 @@ sendMessage fileLock messageCount from to message = do
   if currentCount < 100 then do
     let fileName = "all_messages.txt"
     let formattedMessage = "------------\n" ++
-                          "Message received from: " ++ username from ++
-                          "\nTo chat: " ++ username to ++
+                          "Message received from: " ++ name from ++
+                          "\nTo chat: " ++ name to ++
                           "\n" ++ content message ++ "\n\n"
     withMVar fileLock $ \_ -> appendFile fileName formattedMessage
-    modifyMVar_ (receivedMessages to) $ \messages -> return (message : messages)
+    modifyMVar_ (messages to) $ \msgs -> return (message : msgs)
     putMVar messageCount (currentCount + 1)
   else
     putMVar messageCount currentCount
@@ -58,7 +42,7 @@ userActivity fileLock messageCount users currentUser = forever $ do
     let potentialRecipients = filter (/= currentUser) users
     recipientIndex <- randomRIO (0, length potentialRecipients - 1)
     let recipient = potentialRecipients !! recipientIndex
-    let sender = username currentUser
+    let sender = name currentUser
     let messageContent = "Hello from " ++ sender
     let message = Message sender messageContent
     sendMessage fileLock messageCount currentUser recipient message
@@ -80,11 +64,5 @@ main = do
 
   -- Output the final count of messages each user received
   forM_ users $ \user -> do
-    messages <- readMVar (receivedMessages user)
-    putStrLn $ username user ++ " received " ++ show (length messages) ++ " messages."
-
--- | Handle the exception in case the file does not exist.
-handleExists :: IOException -> IO ()
-handleExists e
-  | isDoesNotExistError e = return ()
-  | otherwise = throwIO e
+    userMessages <- readMVar (messages user)
+    putStrLn $ name user ++ " received " ++ show (length userMessages) ++ " messages."
