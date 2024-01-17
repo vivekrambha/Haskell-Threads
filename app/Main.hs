@@ -3,13 +3,13 @@ module Main where
 import Control.Concurrent
 import Control.Monad
 import System.Random
-import System.IO
 import System.Directory (removeFile)
 import Control.Exception (catch)
 import User (User(..))
 import Message (Message(..))
 import Utils (planetNames)
 import ExceptionHandler (handleExists)
+import UserAnalytics (userWithMostMessages, displayTopUser, customizeMessage)
 
 -- | Creates a new user with the given name.
 createUser :: String -> IO User
@@ -42,9 +42,7 @@ userActivity fileLock messageCount users currentUser = forever $ do
     let potentialRecipients = filter (/= currentUser) users
     recipientIndex <- randomRIO (0, length potentialRecipients - 1)
     let recipient = potentialRecipients !! recipientIndex
-    let sender = name currentUser
-    let messageContent = "Hello from " ++ sender
-    let message = Message sender messageContent
+    message <- customizeMessage currentUser
     sendMessage fileLock messageCount currentUser recipient message
 
 -- | The main function that starts the social network simulation.
@@ -61,6 +59,10 @@ main = do
   threadDelay 10000000
   finalCount <- readMVar messageCount
   putStrLn $ "Total messages sent: " ++ show finalCount
+
+  -- Determine and display the user with the most messages
+  topUser <- userWithMostMessages users
+  displayTopUser topUser
 
   -- Output the final count of messages each user received
   forM_ users $ \user -> do
