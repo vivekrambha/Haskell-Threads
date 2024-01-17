@@ -38,6 +38,13 @@ ghc-options:
 
 library:
   source-dirs: src
+  exposed-modules:
+    - User
+    - Message
+    - Utils
+    - ExceptionHandler
+    - UserAnalytics
+
 
 executables:
   Haskell-Threads-exe:
