@@ -31,4 +31,9 @@ customizeMessage sender = do
   return $ Message senderName messageContent
 
 customMessages :: [String]
-customMessages = ["Have a great day!", "Hello from Haskell!", "Keep smiling!", "Stay safe!", "Happy coding!"]
+customMessages = [ "Welcome to the cosmos! Let's explore the stars together."
+  , "Hello from the event horizon! Haskell's gravity is strong."
+  , "Keep orbiting and stay in your gravity well!"
+  , "Stay safe within the asteroid belt!"
+  , "Happy coding! May your code be as scalable as the universe."
+  ]

@@ -58,7 +58,9 @@ main = do
   -- Wait for all messages to be sent
   threadDelay 10000000
   finalCount <- readMVar messageCount
+  putStrLn $ "------------------------"
   putStrLn $ "Total messages sent: " ++ show finalCount
+  putStrLn $ "------------------------"
 
   -- Determine and display the user with the most messages
   topUser <- userWithMostMessages users
