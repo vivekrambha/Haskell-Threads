@@ -1,3 +1,5 @@
+-- | importing all modules
+module Main (main) where
 import Control.Concurrent
 import Control.Monad
 import System.Random
@@ -56,9 +58,9 @@ main = do
  
   threadDelay 10000000
   finalCount <- readMVar messageCount
-  putStrLn $ "------------------------"
+  putStrLn "------------------------"
   putStrLn $ "Total messages sent: " ++ show finalCount
-  putStrLn $ "------------------------"
+  putStrLn "------------------------"
 
 -- to get user with most messages 
   topUser <- userWithMostMessages users
