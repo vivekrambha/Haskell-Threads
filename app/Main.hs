@@ -1,5 +1,3 @@
-module Main where
-
 import Control.Concurrent
 import Control.Monad
 import System.Random
@@ -11,13 +9,13 @@ import Utils (planetNames)
 import ExceptionHandler (handleExists)
 import UserAnalytics (userWithMostMessages, displayTopUser, customizeMessage)
 
--- | Creates a new user with the given name.
+-- | Creating new user
 createUser :: String -> IO User
 createUser uname = do
   mbox <- newMVar []
   return $ User uname mbox
 
--- | Sends a message from one user to another and logs the message to a common file.
+-- | Sends a message from one user to another and stores in all_messages.txt file.
 sendMessage :: MVar () -> MVar Int -> User -> User -> Message -> IO ()
 sendMessage fileLock messageCount from to message = do
   currentCount <- takeMVar messageCount
@@ -33,7 +31,7 @@ sendMessage fileLock messageCount from to message = do
   else
     putMVar messageCount currentCount
 
--- | Simulates the activity of a user.
+-- | Simulating the activity of the user
 userActivity :: MVar () -> MVar Int -> [User] -> User -> IO ()
 userActivity fileLock messageCount users currentUser = forever $ do
   threadDelay =<< randomRIO (100000, 500000)
@@ -45,7 +43,7 @@ userActivity fileLock messageCount users currentUser = forever $ do
     message <- customizeMessage currentUser
     sendMessage fileLock messageCount currentUser recipient message
 
--- | The main function that starts the social network simulation.
+-- | Main function Start of the application
 main :: IO ()
 main = do
   removeFile "all_messages.txt" `catch` handleExists
@@ -55,18 +53,18 @@ main = do
   users <- mapM createUser planetNames
   mapM_ (forkIO . userActivity fileLock messageCount users) users
 
-  -- Wait for all messages to be sent
+ 
   threadDelay 10000000
   finalCount <- readMVar messageCount
   putStrLn $ "------------------------"
   putStrLn $ "Total messages sent: " ++ show finalCount
   putStrLn $ "------------------------"
 
-  -- Determine and display the user with the most messages
+-- to get user with most messages 
   topUser <- userWithMostMessages users
   displayTopUser topUser
 
-  -- Output the final count of messages each user received
+  -- Output
   forM_ users $ \user -> do
     userMessages <- readMVar (messages user)
     putStrLn $ name user ++ " received " ++ show (length userMessages) ++ " messages."

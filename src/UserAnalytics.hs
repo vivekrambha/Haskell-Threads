@@ -7,14 +7,14 @@ import System.Random (randomRIO)
 import Data.List (maximumBy)
 import Data.Ord (comparing)
 
--- | Retrieves the user who has received the most messages.
+-- | Retrives the user who has sent most number of messages 
 userWithMostMessages :: [User] -> IO User
 userWithMostMessages users = do
   userMessageCounts <- mapM (\u -> fmap length (readMVar $ messages u)) users
   let userCountPairs = zip users userMessageCounts
   return $ fst $ maximumBy (comparing snd) userCountPairs
 
--- | Displays information about the user with the most messages.
+-- | Shows user with the most messages.
 displayTopUser :: User -> IO ()
 displayTopUser user = do
   userMsgs <- readMVar (messages user)
@@ -22,7 +22,7 @@ displayTopUser user = do
   putStrLn $ "Number of messages received: " ++ show (length userMsgs)
   putStrLn $ "-----------------------------"
 
--- | Customizes a message for a user before sending.
+-- | Custom messages to send
 customizeMessage :: User -> IO Message
 customizeMessage sender = do
   let senderName = name sender

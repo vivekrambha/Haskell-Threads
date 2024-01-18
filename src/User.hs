@@ -3,7 +3,7 @@ module User where
 import Control.Concurrent
 import Message (Message)
 
--- | Represents a user in the social network.
+-- | Structure and Data type of a User
 data User = User
   { name :: String
   , messages :: MVar [Message] 

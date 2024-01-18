@@ -1,6 +1,6 @@
 module Message where
 
--- | Represents a message in the social network.
+-- | structure and data types for a message and also how it displays the message.
 data Message = Message
   { fromUser :: String  
   , content :: String 

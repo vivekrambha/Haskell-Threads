@@ -1,500 +1,500 @@
 ------------
-Message received from: Earth
-To chat: Neptune
-Stay safe!
-
-------------
-Message received from: Neptune
-To chat: Saturn
-Happy coding!
-
-------------
-Message received from: Mercury
-To chat: Venus
-Happy coding!
-
-------------
-Message received from: Jupiter
-To chat: Venus
-Stay safe!
-
-------------
-Message received from: Earth
-To chat: Neptune
-Stay safe!
-
-------------
 Message received from: Pluto
-To chat: Uranus
-Hello from Haskell!
-
-------------
-Message received from: Uranus
-To chat: Mercury
-Happy coding!
-
-------------
-Message received from: Saturn
-To chat: Pluto
-Stay safe!
+To chat: Venus
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
 Message received from: Mars
+To chat: Jupiter
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Earth
 To chat: Venus
-Keep smiling!
+Hello from the event horizon! Haskell's gravity is strong.
 
 ------------
-Message received from: Mercury
-To chat: Saturn
-Stay safe!
-
-------------
-Message received from: Venus
+Message received from: Jupiter
 To chat: Eris
-Happy coding!
-
-------------
-Message received from: Eris
-To chat: Pluto
-Hello from Haskell!
-
-------------
-Message received from: Earth
-To chat: Mercury
-Keep smiling!
-
-------------
-Message received from: Uranus
-To chat: Mercury
-Have a great day!
-
-------------
-Message received from: Pluto
-To chat: Venus
-Stay safe!
-
-------------
-Message received from: Mercury
-To chat: Jupiter
-Hello from Haskell!
-
-------------
-Message received from: Neptune
-To chat: Earth
-Hello from Haskell!
-
-------------
-Message received from: Eris
-To chat: Venus
-Have a great day!
-
-------------
-Message received from: Jupiter
-To chat: Venus
-Keep smiling!
-
-------------
-Message received from: Saturn
-To chat: Mercury
-Have a great day!
-
-------------
-Message received from: Venus
-To chat: Uranus
-Stay safe!
-
-------------
-Message received from: Mars
-To chat: Neptune
-Hello from Haskell!
-
-------------
-Message received from: Eris
-To chat: Venus
-Stay safe!
-
-------------
-Message received from: Uranus
-To chat: Earth
-Stay safe!
-
-------------
-Message received from: Mercury
-To chat: Venus
-Have a great day!
-
-------------
-Message received from: Earth
-To chat: Mercury
-Keep smiling!
-
-------------
-Message received from: Pluto
-To chat: Earth
-Keep smiling!
-
-------------
-Message received from: Neptune
-To chat: Earth
-Stay safe!
-
-------------
-Message received from: Uranus
-To chat: Saturn
-Happy coding!
-
-------------
-Message received from: Eris
-To chat: Mercury
-Happy coding!
-
-------------
-Message received from: Jupiter
-To chat: Mars
-Keep smiling!
-
-------------
-Message received from: Mars
-To chat: Neptune
-Stay safe!
-
-------------
-Message received from: Saturn
-To chat: Earth
-Keep smiling!
-
-------------
-Message received from: Earth
-To chat: Uranus
-Keep smiling!
-
-------------
-Message received from: Eris
-To chat: Jupiter
-Happy coding!
+Keep orbiting and stay in your gravity well!
 
 ------------
 Message received from: Pluto
 To chat: Eris
-Happy coding!
-
-------------
-Message received from: Neptune
-To chat: Mars
-Stay safe!
+Happy coding! May your code be as scalable as the universe.
 
 ------------
 Message received from: Mercury
-To chat: Pluto
-Happy coding!
-
-------------
-Message received from: Venus
-To chat: Earth
-Happy coding!
-
-------------
-Message received from: Earth
-To chat: Mars
-Have a great day!
-
-------------
-Message received from: Jupiter
-To chat: Venus
-Hello from Haskell!
-
-------------
-Message received from: Saturn
 To chat: Neptune
-Stay safe!
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
-Message received from: Earth
-To chat: Saturn
-Keep smiling!
+Message received from: Neptune
+To chat: Venus
+Hello from the event horizon! Haskell's gravity is strong.
 
 ------------
 Message received from: Uranus
 To chat: Mercury
-Stay safe!
-
-------------
-Message received from: Mars
-To chat: Uranus
-Have a great day!
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
 Message received from: Eris
 To chat: Mars
-Happy coding!
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Mars
+To chat: Venus
+Stay safe within the asteroid belt!
 
 ------------
 Message received from: Venus
-To chat: Earth
-Have a great day!
+To chat: Eris
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
-Message received from: Mercury
-To chat: Uranus
-Hello from Haskell!
+Message received from: Saturn
+To chat: Venus
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Earth
+To chat: Jupiter
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Jupiter
+To chat: Mars
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Earth
+To chat: Venus
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Venus
+To chat: Mars
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
 Message received from: Pluto
-To chat: Neptune
-Stay safe!
+To chat: Mercury
+Hello from the event horizon! Haskell's gravity is strong.
 
 ------------
 Message received from: Neptune
+To chat: Mercury
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Uranus
+To chat: Jupiter
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Mercury
+To chat: Jupiter
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Saturn
+To chat: Uranus
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Mars
+To chat: Neptune
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Jupiter
+To chat: Eris
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Earth
+To chat: Saturn
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Eris
+To chat: Venus
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Neptune
+To chat: Uranus
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Jupiter
+To chat: Earth
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Uranus
 To chat: Pluto
-Hello from Haskell!
-
-------------
-Message received from: Mars
-To chat: Uranus
-Hello from Haskell!
-
-------------
-Message received from: Jupiter
-To chat: Earth
-Hello from Haskell!
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
 Message received from: Mercury
-To chat: Uranus
-Happy coding!
-
-------------
-Message received from: Saturn
-To chat: Uranus
-Keep smiling!
-
-------------
-Message received from: Neptune
-To chat: Mercury
-Have a great day!
-
-------------
-Message received from: Uranus
-To chat: Venus
-Happy coding!
-
-------------
-Message received from: Earth
-To chat: Venus
-Stay safe!
-
-------------
-Message received from: Jupiter
-To chat: Venus
-Have a great day!
-
-------------
-Message received from: Venus
-To chat: Jupiter
-Hello from Haskell!
-
-------------
-Message received from: Eris
-To chat: Uranus
-Hello from Haskell!
-
-------------
-Message received from: Mars
-To chat: Venus
-Keep smiling!
-
-------------
-Message received from: Jupiter
-To chat: Earth
-Happy coding!
-
-------------
-Message received from: Saturn
-To chat: Venus
-Keep smiling!
-
-------------
-Message received from: Neptune
-To chat: Jupiter
-Keep smiling!
-
-------------
-Message received from: Earth
-To chat: Jupiter
-Stay safe!
-
-------------
-Message received from: Pluto
-To chat: Earth
-Keep smiling!
-
-------------
-Message received from: Mercury
-To chat: Uranus
-Have a great day!
-
-------------
-Message received from: Uranus
-To chat: Earth
-Have a great day!
-
-------------
-Message received from: Neptune
-To chat: Mercury
-Keep smiling!
-
-------------
-Message received from: Mars
-To chat: Saturn
-Have a great day!
-
-------------
-Message received from: Venus
 To chat: Neptune
-Stay safe!
-
-------------
-Message received from: Eris
-To chat: Mercury
-Hello from Haskell!
-
-------------
-Message received from: Uranus
-To chat: Mars
-Happy coding!
+Hello from the event horizon! Haskell's gravity is strong.
 
 ------------
 Message received from: Earth
-To chat: Jupiter
-Hello from Haskell!
+To chat: Neptune
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Venus
+To chat: Earth
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Saturn
+To chat: Earth
+Keep orbiting and stay in your gravity well!
 
 ------------
 Message received from: Mars
-To chat: Saturn
-Stay safe!
-
-------------
-Message received from: Jupiter
-To chat: Mars
-Keep smiling!
+To chat: Jupiter
+Stay safe within the asteroid belt!
 
 ------------
 Message received from: Pluto
 To chat: Eris
-Hello from Haskell!
+Keep orbiting and stay in your gravity well!
 
 ------------
-Message received from: Venus
-To chat: Saturn
-Happy coding!
+Message received from: Earth
+To chat: Mars
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Uranus
+To chat: Neptune
+Hello from the event horizon! Haskell's gravity is strong.
 
 ------------
 Message received from: Saturn
-To chat: Uranus
-Hello from Haskell!
+To chat: Pluto
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Eris
+To chat: Earth
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Venus
+To chat: Jupiter
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Neptune
+To chat: Mercury
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Jupiter
+To chat: Pluto
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Earth
+To chat: Pluto
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Uranus
+To chat: Venus
+Stay safe within the asteroid belt!
 
 ------------
 Message received from: Mercury
-To chat: Jupiter
-Have a great day!
+To chat: Eris
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Saturn
+To chat: Neptune
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Mars
+To chat: Neptune
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Earth
+To chat: Mars
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
 Message received from: Neptune
 To chat: Earth
-Keep smiling!
+Stay safe within the asteroid belt!
 
 ------------
-Message received from: Saturn
-To chat: Mercury
-Happy coding!
-
-------------
-Message received from: Eris
-To chat: Venus
-Happy coding!
-
-------------
-Message received from: Uranus
-To chat: Pluto
-Hello from Haskell!
+Message received from: Pluto
+To chat: Saturn
+Stay safe within the asteroid belt!
 
 ------------
 Message received from: Mars
 To chat: Saturn
-Hello from Haskell!
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
-Message received from: Earth
-To chat: Pluto
-Hello from Haskell!
+Message received from: Venus
+To chat: Neptune
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Jupiter
+To chat: Mercury
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Eris
+To chat: Saturn
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Uranus
+To chat: Neptune
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
 Message received from: Mercury
-To chat: Neptune
-Hello from Haskell!
+To chat: Earth
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Earth
+To chat: Saturn
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Neptune
+To chat: Uranus
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Jupiter
+To chat: Saturn
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Eris
+To chat: Uranus
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Saturn
+To chat: Venus
+Hello from the event horizon! Haskell's gravity is strong.
 
 ------------
 Message received from: Pluto
 To chat: Eris
-Keep smiling!
-
-------------
-Message received from: Jupiter
-To chat: Mars
-Stay safe!
-
-------------
-Message received from: Venus
-To chat: Mars
-Hello from Haskell!
-
-------------
-Message received from: Neptune
-To chat: Jupiter
-Hello from Haskell!
-
-------------
-Message received from: Eris
-To chat: Pluto
-Stay safe!
-
-------------
-Message received from: Jupiter
-To chat: Mercury
-Keep smiling!
-
-------------
-Message received from: Earth
-To chat: Saturn
-Have a great day!
-
-------------
-Message received from: Eris
-To chat: Mars
-Happy coding!
+Hello from the event horizon! Haskell's gravity is strong.
 
 ------------
 Message received from: Uranus
-To chat: Mars
-Stay safe!
+To chat: Earth
+Keep orbiting and stay in your gravity well!
 
 ------------
-Message received from: Pluto
-To chat: Jupiter
-Keep smiling!
+Message received from: Mercury
+To chat: Uranus
+Welcome to the cosmos! Let's explore the stars together.
 
 ------------
 Message received from: Mars
-To chat: Uranus
-Have a great day!
+To chat: Saturn
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Venus
+To chat: Saturn
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Earth
+To chat: Mercury
+Keep orbiting and stay in your gravity well!
 
 ------------
 Message received from: Saturn
 To chat: Pluto
-Stay safe!
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Jupiter
+To chat: Eris
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Eris
+To chat: Neptune
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Uranus
+To chat: Saturn
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Mars
+To chat: Uranus
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Jupiter
+To chat: Venus
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Pluto
+To chat: Mars
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Saturn
+To chat: Eris
+Keep orbiting and stay in your gravity well!
 
 ------------
 Message received from: Mercury
+To chat: Eris
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Eris
+To chat: Mercury
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Earth
+To chat: Pluto
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Venus
+To chat: Mercury
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Jupiter
+To chat: Mercury
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Uranus
+To chat: Neptune
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Eris
+To chat: Uranus
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Mercury
+To chat: Earth
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Pluto
 To chat: Venus
-Keep smiling!
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Venus
+To chat: Mars
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Mars
+To chat: Eris
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Jupiter
+To chat: Uranus
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Eris
+To chat: Mars
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Saturn
+To chat: Eris
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Pluto
+To chat: Neptune
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Earth
+To chat: Neptune
+Happy coding! May your code be as scalable as the universe.
+
+------------
+Message received from: Venus
+To chat: Uranus
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Uranus
+To chat: Venus
+Stay safe within the asteroid belt!
+
+------------
+Message received from: Mercury
+To chat: Mars
+Hello from the event horizon! Haskell's gravity is strong.
+
+------------
+Message received from: Mars
+To chat: Neptune
+Welcome to the cosmos! Let's explore the stars together.
+
+------------
+Message received from: Eris
+To chat: Neptune
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Neptune
+To chat: Jupiter
+Keep orbiting and stay in your gravity well!
+
+------------
+Message received from: Pluto
+To chat: Mercury
+Hello from the event horizon! Haskell's gravity is strong.
 
