@@ -11,16 +11,18 @@ import Utils (planetNames)
 import ExceptionHandler (handleExists)
 import UserAnalytics (userWithMostMessages, displayTopUser, customizeMessage)
 
--- | Creating new user
+-- | Creating new user with defined usernames.
+-- takes a string and returns an IO action
 createUser :: String -> IO User
 createUser uname = do
   mbox <- newMVar []
   return $ User uname mbox
 
--- | sends a message from one user to another and stores in all_messages.txt file.
+-- | sends a message from one user to another and stores in all_messages.txt file.\
 sendM :: MVar () -> MVar Int -> User -> User -> Message -> IO ()
 sendM fileLock messageCount from to message = do
   currentCount <- takeMVar messageCount
+  -- message count less than 100
   if currentCount < 100 then do
     let fileName = "all_messages.txt"
     let formattedMessage = "------------\n" ++
@@ -34,6 +36,7 @@ sendM fileLock messageCount from to message = do
     putMVar messageCount currentCount
 
 -- | Simulating the activity of the user
+-- provides a list with random delay between messages
 userActivity :: MVar () -> MVar Int -> [User] -> User -> IO ()
 userActivity fileLock messageCount users currentUser = forever $ do
   threadDelay =<< randomRIO (100000, 500000)
@@ -55,11 +58,11 @@ main = do
   users <- mapM createUser planetNames
   mapM_ (forkIO . userActivity fileLock messageCount users) users
 
- -- adding delay 
+ -- adding delay and also displaying
   threadDelay (10^7)
-  finalCount <- readMVar messageCount
+  finalC <- readMVar messageCount
   putStrLn "------------------------"
-  putStrLn $ "Total messages sent: " ++ show finalCount
+  putStrLn $ "Total messages sent: " ++ show finalC
   putStrLn "------------------------"
 
 -- to get user with most messages 

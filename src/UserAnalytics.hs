@@ -20,7 +20,7 @@ displayTopUser user = do
   userMsgs <- readMVar (messages user)
   putStrLn $ "User with most messages: " ++ name user
   putStrLn $ "Number of messages received: " ++ show (length userMsgs)
-  putStrLn $ "-----------------------------"
+  putStrLn "-----------------------------"
 
 -- | Custom messages to send
 customizeMessage :: User -> IO Message
@@ -30,6 +30,7 @@ customizeMessage sender = do
   let messageContent = customMessages !! randomIndex
   return $ Message senderName messageContent
 
+-- | list of predefined custom messages. 
 customMessages :: [String]
 customMessages = [ "Welcome to the cosmos! Let's explore the stars together."
   , "Hello from the event horizon! Haskell's gravity is strong."
