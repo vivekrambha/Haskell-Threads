@@ -1,1 +1,2 @@
 # Haskell-Threads
+In this individual project you will implement a Haskell stack app that uses threads and concurrent computation. Your task to simulate a social network. The main program should spawn ten “user” threads, and each of these threads model a user in the social network. The users should then (at random intervals) choose one of the other users (at random) and send a random message to that user.
