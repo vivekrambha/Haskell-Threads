@@ -17,9 +17,9 @@ createUser uname = do
   mbox <- newMVar []
   return $ User uname mbox
 
--- | Sends a message from one user to another and stores in all_messages.txt file.
-sendMessage :: MVar () -> MVar Int -> User -> User -> Message -> IO ()
-sendMessage fileLock messageCount from to message = do
+-- | sends a message from one user to another and stores in all_messages.txt file.
+sendM :: MVar () -> MVar Int -> User -> User -> Message -> IO ()
+sendM fileLock messageCount from to message = do
   currentCount <- takeMVar messageCount
   if currentCount < 100 then do
     let fileName = "all_messages.txt"
@@ -39,11 +39,11 @@ userActivity fileLock messageCount users currentUser = forever $ do
   threadDelay =<< randomRIO (100000, 500000)
   currentCount <- readMVar messageCount
   when (currentCount < 100) $ do
-    let potentialRecipients = filter (/= currentUser) users
-    recipientIndex <- randomRIO (0, length potentialRecipients - 1)
-    let recipient = potentialRecipients !! recipientIndex
+    let poteReci = filter (/= currentUser) users
+    recIndex <- randomRIO (0, length poteReci - 1)
+    let recipient = poteReci !! recIndex
     message <- customizeMessage currentUser
-    sendMessage fileLock messageCount currentUser recipient message
+    sendM fileLock messageCount currentUser recipient message
 
 -- | Main function Start of the application
 main :: IO ()
@@ -55,8 +55,8 @@ main = do
   users <- mapM createUser planetNames
   mapM_ (forkIO . userActivity fileLock messageCount users) users
 
- 
-  threadDelay 10000000
+ -- adding delay 
+  threadDelay (10^7)
   finalCount <- readMVar messageCount
   putStrLn "------------------------"
   putStrLn $ "Total messages sent: " ++ show finalCount
